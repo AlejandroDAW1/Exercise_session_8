@@ -1,0 +1,4 @@
+i used git status to see the current new file
+next git add "file name" to add the file to repository
+and git commit -m "Commit for step (number)" to put the message
+and the last command is git push to upload on git repository
